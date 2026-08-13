@@ -1,0 +1,4 @@
+application:
+  name: DevOps-Week-02
+  environment: development
+  version: 1.0
