@@ -36,3 +36,8 @@ Omkar Jadhav
 ## Internship
 
 Davine Technologies - DevOps Internship
+
+## Learning Outcomes
+
+During Week 2, I practiced Git installation, repository management,
+branching, committing, pushing changes, and GitHub collaboration.
